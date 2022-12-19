@@ -3,5 +3,6 @@
 
 
 ### Cambios Jorge
-cambios locales txus
-cambios 02 locales txus
+
+## Funcionalidad 2
+
