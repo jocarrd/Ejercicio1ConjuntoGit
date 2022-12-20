@@ -1,4 +1,4 @@
-# Versión 0.3
+# Versión 0.4
 # Jorge y David
 # 19:09 Pruebas David
 
@@ -14,3 +14,5 @@
 Nueva linea en local por txus en bugfix
 
 ## Hotfix Julio
+
+## Bugfix Julio
